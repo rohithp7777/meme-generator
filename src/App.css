@@ -36,10 +36,6 @@
     transform: rotate(360deg);
   }
 }
-/*
-body{
-  background-image: url("background.jpg");
-}*/
 
 body{
   background-color: #afbdba7a;
@@ -57,17 +53,6 @@ h1{
   font-family: 'Times New Roman', Times, serif;
   font-size: 40px;
   color: #3C403D;
-  /*
-  text-shadow:
-  0.04em 0 black,
-  0 0.04em black,
-  -0.04em 0 black,
-  0 -0.04em black,
-  -0.04em -0.04em black,
-  -0.04em 0.04em black,
-  0.04em -0.04em black,
-  0.04em 0.04em black;*/
-
 }
 h3{
   color: rgb(23, 35, 66);
