@@ -1,0 +1,34 @@
+.allmemes{
+    height: fit-content;
+    max-height: 350px;
+    width: auto;
+    max-width: 300px;
+    padding: 2px;
+    text-align: center;
+    border-color: black;
+    border: black;
+    border: 3px solid rgba(228, 228, 228, 0.185);
+    margin: 3px;
+}
+.card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.452);
+    transition: 0.1s;
+    text-align: center;
+    margin: 4px;
+    background-color: #DADED4;
+    cursor: pointer;
+    margin-top: 2px;
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* Add some padding inside the card container */
+  .container {
+    padding: 2px;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,0.2);
+  }
+  
