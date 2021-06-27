@@ -8,7 +8,7 @@ Main page
 Page to add your texts  
 ![Screenshot 2](scs/3.png)  
 
-created Meme  
+Created Meme  
 ![Screenshot 3](scs/2.png) 
 
 
